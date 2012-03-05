@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=L1-1
+Removed Pin From Net: NetName=30VDC_PL Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=B82464G2
+Change Component Footprint: Designator=L2 Old Footprint=0402-A New Footprint=B82464G2
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=220uH
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=220uH
+Added Pin To Net: NetName=30VDC_PL Pin=L1-1
+Added Pin To Net: NetName=NetC14_1 Pin=L1-2
+Added Room: Name=top

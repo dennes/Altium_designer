@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=top Member=P4
+Removed Member From Class: ClassName=top Member=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=J?
+Change Component Designator: OldDesignator=P5 NewDesignator=J?
+Change Component Designator: OldDesignator=P6 NewDesignator=J?
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetP6_2 New Net Name=NetJ?_2
+Added Room: Name=top

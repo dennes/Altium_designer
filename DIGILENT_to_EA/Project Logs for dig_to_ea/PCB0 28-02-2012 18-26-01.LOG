@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+3V3 Pin=J_OUT1-48
+Removed Pin From Net: NetName=GND Pin=J_OUT1-49
+Removed Pin From Net: NetName=+3V3 Pin=J_OUT1-50
+Change Component DesignItemId : Designator=J_OUT1 Old DesignItemId=Header 25X2 New DesignItemId=Header 30X2
+Change Component Footprint: Designator=J_OUT1 Old Footprint=HDR2X25 New Footprint=HDR2X30
+Change Component Comment : Designator=J_OUT1 Old Comment=Header 25X2 New Comment=Header 30X2
+Added Pin To Net: NetName=GND Pin=J_OUT1-5
+Added Pin To Net: NetName=P3.31 Pin=J_OUT1-41
+Added Pin To Net: NetName=P3.29 Pin=J_OUT1-43
+Added Pin To Net: NetName=P3.30 Pin=J_OUT1-44
+Added Pin To Net: NetName=P3.27 Pin=J_OUT1-45
+Added Pin To Net: NetName=P3.28 Pin=J_OUT1-46
+Added Pin To Net: NetName=P3.25 Pin=J_OUT1-47
+Added Pin To Net: NetName=P3.26 Pin=J_OUT1-48
+Added Pin To Net: NetName=P3.23 Pin=J_OUT1-49
+Added Pin To Net: NetName=P3.24 Pin=J_OUT1-50
+Added Pin To Net: NetName=P3.21 Pin=J_OUT1-51
+Added Pin To Net: NetName=P3.22 Pin=J_OUT1-52
+Added Pin To Net: NetName=P3.19 Pin=J_OUT1-53
+Added Pin To Net: NetName=P3.20 Pin=J_OUT1-54
+Added Pin To Net: NetName=P3.17 Pin=J_OUT1-55
+Added Pin To Net: NetName=P3.18 Pin=J_OUT1-56
+Added Pin To Net: NetName=GND Pin=J_OUT1-57
+Added Pin To Net: NetName=P3.16 Pin=J_OUT1-58
+Added Pin To Net: NetName=GND Pin=J_OUT1-59
+Added Pin To Net: NetName=+3V3 Pin=J_OUT1-60

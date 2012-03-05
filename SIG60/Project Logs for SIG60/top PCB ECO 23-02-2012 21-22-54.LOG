@@ -1,0 +1,10 @@
+Added Component: Designator=D10(6-0805_L)
+Added Component: Designator=R32(6-0805_L)
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=+5V Pin=R32-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R32-1
+Added Net: Name=NetD10_1
+Added Member To Class: ClassName=top Member=Component D10 PWR_Green
+Added Member To Class: ClassName=top Member=Component R32 Res3
+Added Member To Class: ClassName=top Member=Component U1 SIG60

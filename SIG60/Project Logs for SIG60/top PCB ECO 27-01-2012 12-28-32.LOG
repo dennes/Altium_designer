@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=F1-3
+Removed Pin From Net: NetName=GND Pin=F2-3
+Change Component Footprint: Designator=F1 Old Footprint=Ceramic_filter New Footprint=HDR1X3
+Change Component Footprint: Designator=F2 Old Footprint=Ceramic_filter New Footprint=HDR1X3
+Change Component Comment : Designator=F1 Old Comment=Ceramic Filter New Comment=5.5MHz
+Change Component Comment : Designator=F2 Old Comment=Ceramic Filter New Comment=6.5MHz
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=GND Pin=F2-2
+Added Pin To Net: NetName=NetF1_3 Pin=F1-3
+Added Pin To Net: NetName=NetF1_3 Pin=F2-3
+Added Pin To Net: NetName=NetF1_3 Pin=R11-2
+Added Pin To Net: NetName=NetF1_3 Pin=R13-1
+Added Pin To Net: NetName=NetF1_3 Pin=U1-28
+Added Net: Name=NetF1_3
+Added Room: Name=top

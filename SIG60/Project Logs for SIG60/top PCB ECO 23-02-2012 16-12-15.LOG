@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=INDC1005AL New Footprint=6-0805_L
+Change Component Footprint: Designator=D2 Old Footprint=INDC1005AL New Footprint=6-0805_L
+Change Component Footprint: Designator=D3 Old Footprint=INDC1005AL New Footprint=6-0805_L
+Change Component Footprint: Designator=L1 Old Footprint=WE_74477006 New Footprint=B82464G2
+Change Component Footprint: Designator=L2 Old Footprint=WE_74477006 New Footprint=B82464G2
+Change Component Footprint: Designator=L3 Old Footprint=WE_74477006 New Footprint=B82464G2
+Added Member To Class: ClassName=top Member=Component R29 Res3
+Added Member To Class: ClassName=top Member=Component R30 Res3
+Added Member To Class: ClassName=top Member=Component R31 Res3

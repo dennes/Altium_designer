@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=D5-3
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=U1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=U1-16
+Removed Pin From Net: NetName=NetJ2_2 Pin=U1-17
+Added Component: Designator=R3(6-0805_L)
+Added Component: Designator=R3(6-0805_L)
+Added Component: Designator=R3(6-0805_L)
+Added Pin To Net: NetName=NetC1_1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=NetJ1_2 Pin=R3-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R3-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R3-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetD5_3 Pin=D7-1
+Added Net: Name=NetD5_3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-17
+Added Net: Name=NetR3_2
+Added Room: Name=top

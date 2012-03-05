@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+3V3 Pin=P3-1
+Removed Pin From Net: NetName=NetP3_2 Pin=P3-2
+Removed Pin From Net: NetName=NetP3_6 Pin=R4-2
+Removed Pin From Net: NetName=NetP3_5 Pin=R5-2
+Removed Pin From Net: NetName=NetP3_4 Pin=R6-2
+Removed Pin From Net: NetName=NetP3_3 Pin=R7-2
+Removed Pin From Net: NetName=NetP3_4 Pin=U1-11
+Removed Pin From Net: NetName=NetP3_5 Pin=U1-12
+Removed Pin From Net: NetName=NetP3_6 Pin=U1-13
+Removed Pin From Net: NetName=NetP3_3 Pin=U1-18
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 6 New DesignItemId=Header 7
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X6 New Footprint=HDR1X7
+Change Component Comment : Designator=P3 Old Comment=Header 6 New Comment=Header 7
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+3V3 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-7
+Added Pin To Net: NetName=NetP3_3 Pin=R4-2
+Added Pin To Net: NetName=NetP3_4 Pin=R5-2
+Added Pin To Net: NetName=NetP3_5 Pin=R6-2
+Added Pin To Net: NetName=NetP3_6 Pin=R7-2
+Added Pin To Net: NetName=NetP3_5 Pin=U1-11
+Added Pin To Net: NetName=NetP3_4 Pin=U1-12
+Added Pin To Net: NetName=NetP3_3 Pin=U1-13
+Added Pin To Net: NetName=NetP3_6 Pin=U1-18
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP3_7
+Added Member To Class: ClassName=top Member=Component R3 Res3
+Added Member To Class: ClassName=top Member=Component R10 Res3
+Added Member To Class: ClassName=top Member=Component R12 Res3
+Added Room: Name=top

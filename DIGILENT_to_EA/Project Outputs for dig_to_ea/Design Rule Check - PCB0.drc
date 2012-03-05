@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : F:\Documents\HIH\Data\Altium Designer\DIGILENT_to_EA\PCB0.1.PcbDoc
+Date     : 02-03-2012
+Time     : 23:08:14
+
+Processing Rule : Clearance Constraint (Gap=0mm) ((InNet('GND') AND IsRegion)),(IsText)
+   Violation between Polygon Region (26 hole(s)) Top Layer and 
+                     Text "EA_to_Atlys_V0.1" (42.926mm,3.556mm)  Top Layer
+   Violation between Polygon Region (168 hole(s)) Bottom Layer and 
+                     Text "E10 - Team3 - Dennis" (41.85mm,3.775mm)  Bottom Layer
+Rule Violations :2
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=1.5mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Polygon Region (26 hole(s)) Top Layer and 
+                     Text "EA_to_Atlys_V0.1" (42.926mm,3.556mm)  Top Layer
+   Violation between Polygon Region (168 hole(s)) Bottom Layer and 
+                     Text "E10 - Team3 - Dennis" (41.85mm,3.775mm)  Bottom Layer
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1.5mm) (Preferred=1mm) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.4mm) (Max=15mm) (Preferred=0.6mm) (InNet('+3V3'))
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:02

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C16 Old Footprint=6-0805_N New Footprint=C1210
+Change Component Footprint: Designator=C22 Old Footprint=6-0805_N New Footprint=C1210
+Change Component Footprint: Designator=L1 Old Footprint=B82464G2 New Footprint=WE_74477006
+Change Component Footprint: Designator=L2 Old Footprint=B82464G2 New Footprint=WE_74477006
+Change Component Footprint: Designator=L3 Old Footprint=B82464G2 New Footprint=WE_74477006
+Change Component Footprint: Designator=D8 Old Footprint=SMB New Footprint=CD4532-1812
+Change Component Footprint: Designator=D9 Old Footprint=SMB New Footprint=CD4532-1812
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U3-17
+Added Member To Class: ClassName=Power Supply Member=Component C23 Cap Semi
+Added Member To Class: ClassName=Power Supply Member=Component C24 Cap Semi
+Added Room: Name=Power Supply
+Added Room: Name=top

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=L1 Old Comment=220uH New Comment=100uH
+Added Pin To Net: NetName=+12V Pin=C19-2
+Added Pin To Net: NetName=+12V Pin=U2-4
+Added Room: Name=top
